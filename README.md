@@ -1,6 +1,6 @@
 # Directory Synchronization
 
-Directory Synchronization is a file backup and comparison desktop application.   Enter two directories to recursively compare files between the two directories.  Easily copy files between directories.  Enter a directory and recursively find duplicate files in the directory.   Directory Synchronization was originally developed to backup photos and videos to a backup drive.
+Directory Synchronization is a file backup and comparison desktop application.   Enter two directories to recursively compare files between the two directories.  Easily copy files between directories.  Enter a directory and recursively find duplicate files in the directory.   Directory Synchronization was originally developed to backup photos and videos to a backup disk drive.
 
 ## Execution Dependencies
 
