@@ -2,6 +2,10 @@
 
 Directory Synchronization is a file backup and comparison desktop application.   Enter two directories to recursively compare files between the two directories.  Easily copy files between directories.  Enter a directory and recursively find duplicate files in the directory.   Directory Synchronization was originally developed to backup photos and videos to a backup disk drive.
 
+## User Interface
+
+![alt tag](https://github.com/dthorntonz/DirectorySynchronization/blob/master/DirectorySynchronization.png)
+
 ## Execution Dependencies
 
 - JDK 1.7 or greater
