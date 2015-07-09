@@ -1,6 +1,6 @@
 # Directory Synchronization
 
-Directory Synchronization is a file backup and comparison desktop application.   Enter two directories to recursively compare files between the two directories.  Easily copy files between directories.  Enter a directory and recursively find duplicate files in the directory.   Directory Synchronization was originally developed to backup photos and videos to a backup disk drive.
+Directory Synchronization is a desktop application to compare and backup files.  Directory Synchronization is developed in Java and can be executed on multiple operating systems.   Enter two directories to recursively compare files between the two directories.  Easily copy files between directories.  Enter a directory and recursively find duplicate files in the directory.  Directory Synchronization was originally developed to backup photos and videos to a backup disk drive.
 
 ## User Interface
 
@@ -10,9 +10,12 @@ Directory Synchronization is a file backup and comparison desktop application.  
 
 - JDK 1.7 or greater
 
-## Executing the desktop application
+## Executing Directory Synchronization
 
-- Download the latest release from github and execute using the command:  
+- [Download  the self executing dirsync-1.0.0.jar](releases/download/1.0.0/dirsync-1.0.0.jar)
+- Double click the jar file
+- or
+- Enter the following command on a command line:
 $ java jar dirsync.jar
 
 ## Compilation Dependencies
@@ -26,6 +29,6 @@ $ mvn package
 - Look for the file dirsync-x.x.x-jar-with-dependencies.jar in the target directory.
 
 ## License 
-Copyright © 2014 Danny Thornton
+Copyright © 2015 Danny Thornton
 
 Distributed under the Apache License, version 2.0. (http://www.apache.org/licenses/LICENSE-2.0.html)
