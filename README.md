@@ -12,11 +12,11 @@ Directory Synchronization is a desktop application to compare and backup files. 
 
 ## Executing Directory Synchronization
 
-- [Download  the self executing dirsync-1.0.0.jar](releases/download/1.0.0/dirsync-1.0.0.jar)
+- [Download  the self executing dirsync-1.0.0.jar](https://github.com/dthorntonz/DirectorySynchronization/releases/download/1.0.0/dirsync-1.0.0.jar)
 - Double click the jar file
 - or
 - Enter the following command on a command line:
-$ java jar dirsync.jar
+$ java jar dirsync-1.0.0.jar
 
 ## Compilation Dependencies
 
